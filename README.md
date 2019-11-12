@@ -1,6 +1,6 @@
 # ***Project Wild Planet***
 ---------------------------------
-## We are deployed on Azure!
+## We are No longer deployed on Azure
 
 https://wildplanet.azurewebsites.net/
 
