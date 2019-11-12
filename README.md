@@ -62,7 +62,7 @@ Microsoft Visual Studio Community 2017 (Version 15.5.7)
 
 #### V 1.0
 *Site launch 30 April 2019
-
+*Site cose 30 June 2019
 ---------------------------
 
 ## Getting Started
